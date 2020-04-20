@@ -13,3 +13,4 @@
 * Step: training by each train data, alternately
 * Updated by w<sub>1</sub>(t+1) = w<sub>1</sub>(t) + η(d-y(t))x<sub>1</sub>(t), where y = w<sub>1</sub>x<sub>1</sub> + w<sub>2</sub>x<sub>2</sub> + b
 * [View](https://nize-vision.tistory.com/1) 
+<br> <img src="Perceptron.jpg"></img>  
