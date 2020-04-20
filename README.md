@@ -1,5 +1,6 @@
 # Perceptron
 * Perceptron (html & JavaScript)
+* Perceptron.html
 
 ## Introduction
 * Single perceptron
