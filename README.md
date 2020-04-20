@@ -6,7 +6,7 @@
 * Single perceptron
 * No activation function
 * Two inputs, two train data, bias input (optional), learning rate
-* Hyperplane
+* Hyperplane is shown
 
 ## Explain
 * Start: generating two train data (desired output: 1 and -1) with two featrues ranging [0, 1] 
